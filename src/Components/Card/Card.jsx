@@ -17,7 +17,7 @@ const Card = ({ card, handleCookButton }) => {
             <div className='flex items-center gap-16 mt-4'>
                 <div className='flex items-center gap-2'>
                     <i className="fa-regular fa-clock text-xl"></i>
-                    <p>{preparing_time}</p>
+                    <p>{preparing_time} minute</p>
                 </div>
                 <div className='flex items-center gap-2'>
                     <i className="fa-solid fa-fire-flame-curved text-xl"></i>
