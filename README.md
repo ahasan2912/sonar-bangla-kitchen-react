@@ -1,5 +1,5 @@
 # sonar-bangla-kitchen-react
-[Live site: ] (https://aquamarine-baklava-3338f3.netlify.app/)
+[Live site: ](https://aquamarine-baklava-3338f3.netlify.app/)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
